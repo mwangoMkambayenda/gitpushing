@@ -1,0 +1,6 @@
+git branch > git branch "name"
+----------
+git chechout "name"
+git add .
+git commit -m "name"
+git push  .
